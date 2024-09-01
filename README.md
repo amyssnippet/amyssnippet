@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @amyssnippet
+- 👀 I’m interested in Latest Web Technologies
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on a UI library named LISA
+- 📫 How to reach me mail @ amyssnipet@yahoo.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: Im Coder
