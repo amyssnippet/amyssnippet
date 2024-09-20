@@ -20,8 +20,7 @@ Here's a glimpse of the technologies I love working with:
 
 # What I'm Working On
 
-- [LISA Org.](https://github
-com/lisaorg): LISA Org is a SaaS UI library kit which delivers UI components, themes and templates using which a user or a developer make entire sites.
+- [LISA Org.](https://github.com/lisaorg): LISA Org is a SaaS UI library kit which delivers UI components, themes and templates using which a user or a developer make entire sites.
 - Learning: Nextjs, Nextjs
 
 # How to Reach Me
