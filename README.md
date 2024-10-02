@@ -27,8 +27,8 @@ Here's a glimpse of the technologies I love working with:
 
 I'd love to connect! You can reach out to me via:
 - Email: amyssnipet@yahoo.com
-- LinkedIn: [in/yadav-amol](https://linkedin.com/in/yadav-amol)
-- Personal Website: [Portfolio](https://amyssnippet.vercel.app/)
+- LinkedIn: [in/yadav-amol](https://linkedin.com/in/amyssnippet)
+- Personal Website: [Portfolio](https://amolyadav.site/)
 
 # Fun Facts
 
