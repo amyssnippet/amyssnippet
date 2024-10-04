@@ -20,13 +20,13 @@ Here's a glimpse of the technologies I love working with:
 
 # What I'm Working On
 
-- [LISA Org.](https://github.com/lisaorg): LISA Org is a SaaS UI library kit which delivers UI components, themes and templates using which a user or a developer make entire sites.
+- [Bradcn Inc.](https://github.com/bradcn): Bradcn Inc. is a SaaS UI library kit which delivers UI components, themes and templates using which a user or a developer make entire sites.
 - Learning: Nextjs, Nextjs
 
 # How to Reach Me
 
 I'd love to connect! You can reach out to me via:
-- Email: amyssnipet@yahoo.com
+- Email: contact@amolyadav.site
 - LinkedIn: [in/yadav-amol](https://linkedin.com/in/amyssnippet)
 - Personal Website: [Portfolio](https://amolyadav.site/)
 
