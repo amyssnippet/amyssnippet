@@ -37,6 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amyssnippet&show_icons=true&locale=en&layout=compact" alt="amyssnippet" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amyssnippet&show_icons=true&locale=en" alt="amyssnippet" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amyssnippet&" alt="amyssnippet" /></p>
