@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amol Yadav</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amyssnippet&label=Profile%20views&color=0e75b6&style=flat" alt="amyssnippet" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amyssnippet" alt="amyssnippet" /></a> </p>
