@@ -20,4 +20,6 @@ I am a **DevOps Engineer** and **Tooling Author** focused on containerization, L
 [LinkedIn](https://linkedin.com/in/amyssnippet) • [Email](mailto:amolyadav6125@gmail.com)
 ---
 
-![](https://nirzak-streak-stats.vercel.app/?user=amyssnippet&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=amyssnippet&theme=dark&hide_border=false" alt="Streak Stats" />
+</div>
